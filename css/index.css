@@ -46,6 +46,17 @@
 .images img{
       width: 430px;
       height: 450px;
+      border-radius: 15px;
+}
+.arfat-porna-img{
+      display: flex;
+}
+.porna-img{
+      width: 100px;
+      height: 100px;
+      border-radius: 80%;
+      display: block;
+      margin: auto;
 }
 .images-2{
       display: grid;
@@ -59,6 +70,7 @@
 .images-2 img{
       width: 530px;
       height: 750px;
+      border-radius: 15px;
 }
 .images-3{
       display: grid;
