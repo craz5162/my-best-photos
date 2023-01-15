@@ -16,7 +16,7 @@
 .name{
       display: flex;
       align-items: center;
-      justify-content: space-evenly;
+      justify-content: space-around;
       font-family: 'Open Sans', sans-serif;
       color: white;
       margin-top: 60px;
